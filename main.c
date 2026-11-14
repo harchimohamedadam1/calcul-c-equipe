@@ -9,6 +9,7 @@ double moyenne(int x, int y) {
 
 int main() {
     printf("Message main\n");
+    printf("message\n");
     int a,b;
     printf("Entrez un entier:");
     scanf("%d",&a);
