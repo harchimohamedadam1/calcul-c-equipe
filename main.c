@@ -8,7 +8,7 @@ double moyenne(int x, int y) {
 }
 
 int main() {
-    printf("Projet collaboratif\n");
+    printf("Message main\n");
     int a,b;
     printf("Entrez un entier:");
     scanf("%d",&a);
